@@ -11,3 +11,7 @@ If you split things into sections and subsections, you will seem organized and t
 
 ### SubSubsection A
 This is a subsubsection, I guess?
+
+# Section B
+This is another big section.
+Files can sometimes create conflicts.
