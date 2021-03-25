@@ -17,3 +17,6 @@ This is another subsubsection, I guess?
 # Section B
 This is another big section.
 Files can sometimes create conflicts.
+
+# Section C
+Oh fancy, a third section
